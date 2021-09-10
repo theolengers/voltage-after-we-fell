@@ -1,3 +1,7 @@
+.. image:: https://raw.githubusercontent.com/quantumblacklabs/kedro/develop/static/img/kedro_banner.png
+    :alt: Kedro logo
+    :class: kedro-logo
+
 After We Fell is almost here to give fans the next instalment
 ==============================================================================================
 
